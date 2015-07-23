@@ -10,3 +10,6 @@ Para instalar Conky Manager, poner en el terminal los siguientes comandos:
 
 **sudo apt-get install conky-manager**
 
+Copiar la carpeta "Indicadores" dentro de la carpeta .Conky en su directorio local
+
+Desde el Conky Manager agregar los indicadores
